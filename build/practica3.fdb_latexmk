@@ -2,12 +2,12 @@
 ["biber build/practica3"] 0 "build/practica3.bcf" "build/practica3.bbl" "build/practica3" 0
   "build/practica3.bcf" 0 -1 0 "pdflatex"
   (generated)
-  "build/practica3.bbl"
   "build/practica3.blg"
-["pdflatex"] 1650819445 "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/practica3.tex" "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.pdf" "practica3" 1650819445
+  "build/practica3.bbl"
+["pdflatex"] 1650819704 "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/practica3.tex" "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.pdf" "practica3" 1650819704
   "/etc/texmf/web2c/texmf.cnf" 1647692169 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.aux" 1650819445 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/practica3.tex" 1650819435 9349 e15151f37d54400207e1bafb35f29b0f ""
+  "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.aux" 1650819704 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/practica3.tex" 1650819693 8339 5926431c56566c036e5a9f575901700f ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1136768653 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
@@ -128,12 +128,12 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1647692259 8256417 15c0c12733b7031230bab32215dda88c ""
   "build/practica3.aux" 0 -1 0 "pdflatex"
   "build/practica3.bbl" 0 -1 0 "biber build/practica3"
-  "practica3.tex" 1650819435 9349 e15151f37d54400207e1bafb35f29b0f ""
+  "practica3.tex" 1650819693 8339 5926431c56566c036e5a9f575901700f ""
   (generated)
   "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.log"
-  "build/practica3.log"
   "build/practica3.aux"
   "/home/alex/Escritorio/GPDS/practica3/practia3GPDS/build/practica3.pdf"
   "build/practica3.toc"
   "build/practica3.bcf"
   "build/practica3.out"
+  "build/practica3.log"
